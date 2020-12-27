@@ -19,4 +19,4 @@ The Dataset contains the images as stated below:
 Training, Validation Accuracy and Loss image shows the respective accuracies and losses occured while training the model for 10 epochs.
 ![Accuracy and Loss Image](https://github.com/saikumargandhi/Detecting-masks-on-Human-Faces/blob/main/Training%2C%20Validation%20Accuracy%20and%20Loss.png?raw=true)
 
-As you can see for only 10 epochs we got a very good accuracy of around 98%.
+As you can see for only <b>10 epochs</b> we got a very good <i>accuracy</i> of around <b>98%</b>.
