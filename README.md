@@ -15,5 +15,6 @@ If you want to use the pre-trained model of ours , feel free to download it here
 
 For the dataset of images with_masks and without_masks with both train and validation partitions download here - <a href="https://drive.google.com/drive/folders/11UNdC9jgGYaIlEjbnlKsTXwMXVX-fEC9?usp=sharing"><i>Download the Dataset</i></a>.
 
-The Dataset contains the images as stated below :
+The Dataset contains the images as stated below:
+
 ![Dataset Info](https://github.com/saikumargandhi/Detecting-masks-on-Human-Faces/blob/main/Dataset%20Information.jpg?raw=true)
