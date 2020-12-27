@@ -5,7 +5,7 @@ The goal is to detect whether a person has wore the mask or not by using Tensorf
 train_model.py - is the training code written in Python by using Tensorflow, Keras, CNN for training the model.
 
 Training, Validation Accuracy and Loss image shows the respective accuracies and losses occured while training the model for 10 epochs.
-!(https://github.com/saikumargandhi/Detecting-masks-on-Human-Faces/blob/main/Training%2C%20Validation%20Accuracy%20and%20Loss.png)
+![Accuracy and Loss Image](https://github.com/saikumargandhi/Detecting-masks-on-Human-Faces/blob/main/Training%2C%20Validation%20Accuracy%20and%20Loss.png?raw=true)
 
 Requirements : numpy , matplotlib, keras, tensorflow, os
 
