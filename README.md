@@ -8,8 +8,6 @@ The goal is to detect whether a person has wore the mask or not by using Tensorf
 
 If you want to train your model from scracth run the train_model.py and adjust the epochs of your choice. Just make sure that the dataset and train_model.py are in the same folder.
 
-If you want to use the pre-trained model of ours , feel free to download it here - <a href="https://drive.google.com/file/d/1UKsPtmMt8c_nwttWhMfvJzEXQ9CdB4VZ/view?usp=sharing"><i>Download the Model</i></a>. 
-
 For the dataset of images with_masks and without_masks with both train and validation partitions download here - <a href="https://drive.google.com/drive/folders/11UNdC9jgGYaIlEjbnlKsTXwMXVX-fEC9?usp=sharing"><i>Download the Dataset</i></a>.
 
 The Dataset contains the images as stated below:
